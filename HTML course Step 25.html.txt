@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<HTML>
+<lan=en>
+<Title>How to trash your career in two paragraphs or less</Title>
+<Body>
+<P>
+"Hello, World!
+</P>
+</Body>
+</HTML>
